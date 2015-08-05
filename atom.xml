@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://ftitd.github.io/atom.xml" rel="self"/>
+  <link href="http://ftitd.github.io/"/>
+  <updated>2015-08-05T22:16:50+08:00</updated>
+  <id>http://ftitd.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Ftitd]]></title>
+    <link href="http://ftitd.github.io/blog/2015/08/05/ftitd/"/>
+    <updated>2015-08-05T21:36:22+08:00</updated>
+    <id>http://ftitd.github.io/blog/2015/08/05/ftitd</id>
+    <content type="html"><![CDATA[<h1>你好Ftitd</h1>
+
+<h2>欢迎你的到来</h2>
+
+<p><strong>octopress</strong></p>
+
+<p><code>亮了</code></p>
+
+<ul>
+<li>Android
+
+<ul>
+<li>http</li>
+<li>sqlites</li>
+</ul>
+</li>
+<li>php</li>
+<li>html
+
+<blockquote><p>引用</p></blockquote></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
