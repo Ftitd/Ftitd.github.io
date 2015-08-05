@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Ftitd"
+date: 2015-08-05 21:36:22 +0800
+comments: true
+categories: 
+---
+#你好Ftitd
+##欢迎你的到来
+**octopress**
+
+`亮了`
+
+- Android
+	- http
+	- sqlites
+- php
+- html
+>引用
+
+
